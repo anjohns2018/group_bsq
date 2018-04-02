@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: smonroe <marvin@42.fr>                     +#+  +:+       +#+         #
+#    By: ajohnson <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/04/01 02:24:02 by smonroe           #+#    #+#              #
 #    Updated: 2018/04/01 09:06:32 by smonroe          ###   ########.fr        #
